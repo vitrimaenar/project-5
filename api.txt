@@ -1,0 +1,6 @@
+`https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${qrValue}`
+
+-> use this link in script.js to create QR-CODE.
+-> how/where to use is explained in video.
+
+-> (SOURCE CODE) already used in JS.
